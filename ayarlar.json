@@ -1,0 +1,50 @@
+{
+  "prefix": "PREFİXİNİZ",
+  "token": "TOKENİNİZ",
+  "sahip": "KENDİ İDNİZ",
+
+  "durum": "AceBots",
+  
+  "susturulmuş":"MUTED ROL İD",
+  "cezalı":"CEZALI ROL İD", 
+ 
+  "kayıtyetkili": "KAYIT YETKİLİ İD",
+  "banyetkili":"BAN YETKİLİ ROL İD",
+  "jailyetkili":"JAİL YETKİLİ ROL İD",
+  "muteyetkili":"MUTE YETKİLİ ROL İD",
+  "logger":"İSTEDİĞİNİZ BİR YETKİLİ İD",
+  
+  "mutelog":"MUTE LOG KANALI İD",
+  "banlog":"BAN LOG KANALI İD",
+  "jaillog":"JAİL LOG KANALI İD",
+  
+  "botses":"SESE SOKMAK İÇİN İD",
+  
+  "erkekrol1":"VERİLCEK ERKEK ROL1",
+  "erkekrol2":"VERİLCEK ERKEK ROL2",
+  "erkekrol3":"VERİLCEK ERKEK ROL3",
+
+  "chatlog":"CHAT LOG KANAL İD",
+  "modlog":"MOD LOG KANAL İD",
+  
+  "kızrol1":"VERİLCEK KIZ ROL1",
+  "kızrol2":"VERİLCEK KIZ ROL2",
+  "kızrol3":"VERİLCEK KIZ ROL3",
+
+  "booster":"BOOSTER ROL İD",
+  "tag":"TAGINIZ",
+  
+  "basariliemoji":"EMOJİ İD",
+  "basarisizemoji":"EMOJİ İD",
+  
+  "botkomut":   "BOT KOMUT KANAL İDSİ",
+  
+  "kayıtsız":     "UNREGİSTER PERMİ",
+
+  "genelsohbet":  "GENEL SOHBET İD",
+  "kayıtsohbet":  "KAYIT SOHBET İD",
+
+  "sunucu":       "SUNUCU İDSİ",
+  "tagkanal":     "TAG LOG KANAL İDSİ",
+  "tagrol":       "TAG ALINCA VERİLCEK ROL İDSİ"
+}
